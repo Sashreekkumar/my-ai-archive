@@ -18,4 +18,6 @@ A personal knowledge repo with notes from books and courses I work through. The 
 
 ## Papers
 1. [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747) : A really good **review paper** on optimization algorithms.
+2. [A Survey on Deep Learning in Medical Image Analysis
+](research-paper/notes/a_survey_on_deep_learning_in_medical_image_analysis.md): Covers a lot of application of deep learning model, pre-transformer era
 
