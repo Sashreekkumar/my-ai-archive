@@ -2,7 +2,13 @@
 A personal knowledge repo with notes from books and courses I work through. The notes focus on ideas I found interesting, missing explanations, useful extensions, and my own summaries rather than full coverage, so they are not exhaustive. It includes my solutions to book exercises and course assignments where applicable, a curated section of blog posts I found especially helpful, and notes I made while reading research papers.
 
 ## Books
-1. **[Natural Language Processing with Transformers – Building AI Applications with Hugging Face by Lewis Tunstall, Leandro von Werra, and Thomas Wolf](natural_language_processing_with_transformers/transformers.md)**
+
+
+1. **[Deep Learning Foundations by Chrisopher Bishop and Hugh Bishop](Books/deep_learning_foundations/deep_learning_foundations.md)**
+
+Checkout my notes and solutions to the exercises I worked through. 
+
+2. **[Natural Language Processing with Transformers – Building AI Applications with Hugging Face by Lewis Tunstall, Leandro von Werra, and Thomas Wolf](natural_language_processing_with_transformers/transformers.md)**
 
 
     Checkout my Jupyter Notebooks and short notes (non-exhaustive from the book)
@@ -21,3 +27,6 @@ A personal knowledge repo with notes from books and courses I work through. The 
 2. [A Survey on Deep Learning in Medical Image Analysis
 ](research-paper/notes/a_survey_on_deep_learning_in_medical_image_analysis.md): Covers a lot of application of deep learning model, pre-transformer era
 
+## My Notes:
+Contains non-exhaustive notes I made while working on different projects or understanding various concepts
+1. [Audio](notes/Audio.pdf)
